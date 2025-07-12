@@ -26,7 +26,7 @@ Para rodar este projeto localmente, você precisará ter o Docker e o Docker Com
 ### 1. Clone o Repositório
 
 ```bash
-git clone [https://github.com/bax7os/teste-alfenio-legal-ai.git](https://github.com/bax7os/teste-alfenio-legal-ai.git)
+git clone [https://github.com/bax7os/alfaneo-test](https://github.com/bax7os/alfaneo-test)
 cd teste-alfenio-legal-ai
 ```
 
